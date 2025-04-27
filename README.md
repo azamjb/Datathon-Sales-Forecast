@@ -8,7 +8,7 @@ retail_data is a dataset of 500k+ sales invoices
 
 Backtesting results:
 
-<img width="991" alt="Screenshot 2025-04-27 at 2 29 05 PM" src="https://github.com/user-attachments/assets/70386f13-fe4d-4d9e-9ada-3ea7796e8dd2" />
+![resultsssss](https://github.com/user-attachments/assets/7d3f2160-84b6-4728-a4cf-aff6ee423933)
 
 Validation scores
 
@@ -16,4 +16,5 @@ MAE: 14.34 units, RMSE: 28.76 units
 
 Future Forecast Results:
 
-<img width="1201" alt="Screenshot 2025-04-27 at 3 04 57 PM" src="https://github.com/user-attachments/assets/d2133dd5-541f-4178-abb6-ba280052442d" />
+![wfgewfgwegfefwfewfewf](https://github.com/user-attachments/assets/31a87875-6be9-4e6c-ace2-ffdd048f30b2)
+
