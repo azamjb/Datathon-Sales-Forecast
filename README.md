@@ -2,7 +2,7 @@
 
 Time Series Forecasting model to predict future product sales for an ecommerce company
 
-Built for University of Washington 'Dubstech' Datathon 2026
+Built for University of Washington 'Dubstech' Datathon 2026 - took 2nd place!
 
 retail_data is a dataset of 500k+ sales invoices
 
